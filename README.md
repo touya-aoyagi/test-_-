@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Left side text goes here.</td>
-    <td><img width="150" height="150" alt="1000026640" src="https://github.com/user-attachments/assets/82c4dd05-7190-42c3-9568-9d305d70b4fc"){https://ezrael.atabook.org/} />
+    <td><img width="150" height="150" alt="1000026689" src="https://github.com/user-attachments/assets/c28568fa-c412-44dd-81b3-7f787e6b140b" />
 </td>
   </tr>
 </table>
