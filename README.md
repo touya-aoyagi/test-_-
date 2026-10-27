@@ -5,7 +5,10 @@
   <tr>
     <td>${\textsf{\color{#ECE7D6}so3 3w4 so/sp 359}}$
       
-  ${\textsf{\color{#C7D2D4}he , him}}$
+  ${\textsf{\color{#C7D2D4}𝗁౿ . 𝗁ꪱᜒო}}$
+
+ ${\textsf{\color{#B5B9BB}he , him}}$
+ ‎𖹭
     </td>
     <td><img width="150" height="150" alt="1000026689" src="https://github.com/user-attachments/assets/c28568fa-c412-44dd-81b3-7f787e6b140b" />
 </td>
